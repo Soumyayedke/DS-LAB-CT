@@ -1,2 +1,2 @@
 # DS-LAB-CT
-it has all th codes of codetantra platform along with proper sequences
+it has all the codes of codetantra platform along with proper sequences
